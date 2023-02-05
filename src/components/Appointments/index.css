@@ -1,0 +1,63 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.css-bg-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.css-heading {
+  padding-left: 180px;
+  margin-top: 100px;
+}
+
+.css-containers {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 200px;
+}
+
+.css-leftside-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.css-rightside-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.css-input-itself {
+  width: 250px;
+  height: 30px;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.css-textarea-itself {
+  width: 250px;
+  height: 70px;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.css-button-itself {
+  background-color: blueviolet;
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+  border-width: 0;
+  padding: 7px;
+}
+
+.css-button-itself:hover {
+  cursor: pointer;
+}
+
+.css-ul-container {
+  list-style-type: none;
+}

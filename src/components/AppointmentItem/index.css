@@ -1,0 +1,83 @@
+/* Write your CSS here */
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+/* Write your CSS here */
+
+.css-commentitem-bg-container {
+  padding-left: 130px;
+  display: flex;
+  flex-direction: column;
+  width: 800px;
+}
+
+.css-top-container {
+  display: flex;
+  align-items: center;
+}
+
+.css-profile-image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 40px;
+  width: 40px;
+  height: 40px;
+  color: white;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.css-name-date-container {
+  display: flex;
+  padding-top: 0;
+}
+
+.css-Name-paragraph {
+  margin-right: 20px;
+}
+
+.css-namedatedescription-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.css-bottom-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.css-like-delete-button-itself {
+  background-color: transparent;
+  border-width: 0;
+}
+
+.css-like-delete-button-itself:hover {
+  cursor: pointer;
+}
